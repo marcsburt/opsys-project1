@@ -1,0 +1,12 @@
+2.1 Did they use any different system calls?
+
+  They don't use different calls, but the cpp version seems to use more of the same calls.  It's as if the data is being written and read from multiple sources
+
+2.2 Was there any difference in terms of the number of times system calls used?
+
+  Yes, .cpp used more system calls to generate the outputs.
+
+2.3 What can you say about the two hello programs of the same functionality in
+terms of their efficiency in using system resources?
+
+  .c seemed to use less system resources.
